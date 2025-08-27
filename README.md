@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Virajthakurwar22
-- 👀 I’m interested in C-Programming and Data Science
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Data Science.
 - 📫 How to reach me - virajthakurwar12@gmail.com
 
 <!---
